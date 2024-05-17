@@ -1,0 +1,178 @@
+[2024-05-16 22:00:44] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:00:44] [ INFO ] [PacienteDAOH2:19] Iniciando la operacion de guardado de un odontologo
+[2024-05-16 22:00:44] [ ERROR] [PacienteDAOH2:38] Cannot invoke "java.lang.Integer.intValue()" because the return value of "model.Odontologo.getId()" is null
+[2024-05-16 22:01:09] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:01:09] [ INFO ] [PacienteDAOH2:19] Iniciando la operacion de guardado de un odontologo
+[2024-05-16 22:01:09] [ ERROR] [PacienteDAOH2:38] Metodo permitido unicamente en un query. Use execute ó executeUpdate en lugar de executeQuery
+Method is only allowed for a query. Use execute or executeUpdate instead of executeQuery; SQL statement:
+INSERT INTO ODONTOLOGOS (ID,NOMBRE,APELLIDO,MATRICULA) VALUES (?,?,?,?) [90002-224]
+[2024-05-16 22:02:13] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:02:13] [ INFO ] [PacienteDAOH2:19] Iniciando la operacion de guardado de un odontologo
+[2024-05-16 22:02:28] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:02:28] [ INFO ] [PacienteDAOH2:19] Iniciando la operacion de guardado de un odontologo
+[2024-05-16 22:02:28] [ INFO ] [PacienteDAOH2:30] Odontologo guardado con éxito
+[2024-05-16 22:05:30] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:05:30] [ INFO ] [Cliente:11] Guardando un odontologo
+[2024-05-16 22:05:30] [ INFO ] [PacienteDAOH2:19] Iniciando la operacion de guardado de un odontologo
+[2024-05-16 22:05:30] [ INFO ] [PacienteDAOH2:30] Odontologo guardado con éxito
+[2024-05-16 22:05:30] [ INFO ] [Cliente:17] Buscando todos los odontologos
+[2024-05-16 22:05:30] [ INFO ] [PacienteDAOH2:42] Buscando todos los odontologos
+[2024-05-16 22:05:30] [ INFO ] [PacienteDAOH2:49] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:05:30] [ INFO ] [PacienteDAOH2:49] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:05:30] [ INFO ] [PacienteDAOH2:49] ID: 4 Nombre: Juan Apellido: Perez Matricula: 12345678
+[2024-05-16 22:08:07] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:08:07] [ INFO ] [PacienteDAOH2:19] Iniciando la operacion de guardado de un odontologo
+[2024-05-16 22:08:07] [ INFO ] [PacienteDAOH2:30] Odontologo guardado con éxito
+[2024-05-16 22:09:24] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:09:24] [ INFO ] [PacienteDAOH2:42] Buscando todos los odontologos
+[2024-05-16 22:09:24] [ INFO ] [PacienteDAOH2:49] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:09:24] [ INFO ] [PacienteDAOH2:49] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:09:24] [ INFO ] [PacienteDAOH2:42] Buscando todos los odontologos
+[2024-05-16 22:09:24] [ INFO ] [PacienteDAOH2:49] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:09:24] [ INFO ] [PacienteDAOH2:49] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:09:43] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:09:43] [ INFO ] [PacienteDAOH2:42] Buscando todos los odontologos
+[2024-05-16 22:09:43] [ INFO ] [PacienteDAOH2:49] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:09:43] [ INFO ] [PacienteDAOH2:49] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:09:43] [ INFO ] [PacienteDAOH2:42] Buscando todos los odontologos
+[2024-05-16 22:09:43] [ INFO ] [PacienteDAOH2:49] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:09:43] [ INFO ] [PacienteDAOH2:49] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:11:18] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:11:18] [ INFO ] [PacienteDAOH2:42] Buscando todos los odontologos
+[2024-05-16 22:11:18] [ INFO ] [PacienteDAOH2:49] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:11:18] [ INFO ] [PacienteDAOH2:49] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:11:56] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:11:56] [ INFO ] [PacienteDAOH2:42] Buscando todos los odontologos
+[2024-05-16 22:11:56] [ INFO ] [PacienteDAOH2:49] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:11:56] [ INFO ] [PacienteDAOH2:49] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:11:56] [ INFO ] [PacienteDAOH2:42] Buscando todos los odontologos
+[2024-05-16 22:11:56] [ INFO ] [PacienteDAOH2:49] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:11:56] [ INFO ] [PacienteDAOH2:49] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:15:07] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:15:07] [ INFO ] [PacienteDAOH2:43] Buscando todos los odontologos
+[2024-05-16 22:15:07] [ INFO ] [PacienteDAOH2:51] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:15:07] [ INFO ] [PacienteDAOH2:51] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:15:07] [ INFO ] [PacienteDAOH2:43] Buscando todos los odontologos
+[2024-05-16 22:15:07] [ INFO ] [PacienteDAOH2:51] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:15:07] [ INFO ] [PacienteDAOH2:51] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:24:38] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:24:38] [ INFO ] [PacienteDAOH2:43] Buscando todos los odontologos
+[2024-05-16 22:24:38] [ INFO ] [PacienteDAOH2:51] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:24:38] [ INFO ] [PacienteDAOH2:51] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:24:38] [ INFO ] [PacienteDAOH2:43] Buscando todos los odontologos
+[2024-05-16 22:24:38] [ INFO ] [PacienteDAOH2:51] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:24:38] [ INFO ] [PacienteDAOH2:51] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:25:12] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:25:12] [ INFO ] [PacienteDAOH2:43] Buscando todos los odontologos
+[2024-05-16 22:25:12] [ INFO ] [PacienteDAOH2:51] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:25:12] [ INFO ] [PacienteDAOH2:51] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:25:12] [ INFO ] [PacienteDAOH2:43] Buscando todos los odontologos
+[2024-05-16 22:25:12] [ INFO ] [PacienteDAOH2:51] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:25:12] [ INFO ] [PacienteDAOH2:51] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:31:56] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:31:56] [ INFO ] [PacienteDAOH2:43] Buscando todos los odontologos
+[2024-05-16 22:31:56] [ INFO ] [PacienteDAOH2:51] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:31:56] [ INFO ] [PacienteDAOH2:51] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:31:56] [ INFO ] [PacienteDAOH2:43] Buscando todos los odontologos
+[2024-05-16 22:31:56] [ INFO ] [PacienteDAOH2:51] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:31:56] [ INFO ] [PacienteDAOH2:51] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:33:53] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:33:53] [ INFO ] [PacienteDAOH2:43] Buscando todos los odontologos
+[2024-05-16 22:33:53] [ INFO ] [PacienteDAOH2:51] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:33:53] [ INFO ] [PacienteDAOH2:51] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:33:53] [ INFO ] [PacienteDAOH2:43] Buscando todos los odontologos
+[2024-05-16 22:33:53] [ INFO ] [PacienteDAOH2:51] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:33:53] [ INFO ] [PacienteDAOH2:51] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:34:40] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:34:40] [ INFO ] [Cliente:13] Guardando un odontologo en H2
+[2024-05-16 22:34:40] [ INFO ] [PacienteDAOH2:20] Iniciando la operacion de guardado de un odontologo
+[2024-05-16 22:34:40] [ INFO ] [PacienteDAOH2:31] Odontologo guardado con éxito
+[2024-05-16 22:34:40] [ INFO ] [Cliente:19] Iniciando Buscar Todos en H2
+[2024-05-16 22:34:40] [ INFO ] [PacienteDAOH2:43] Buscando todos los odontologos
+[2024-05-16 22:34:40] [ INFO ] [PacienteDAOH2:51] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:34:40] [ INFO ] [PacienteDAOH2:51] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:34:40] [ INFO ] [PacienteDAOH2:51] ID: 4 Nombre: Juan Apellido: Perez Matricula: 12345678
+[2024-05-16 22:34:40] [ INFO ] [Cliente:23] Iniciando Guardado en Lista
+[2024-05-16 22:34:40] [ INFO ] [Cliente:28] Iniciando busqueda en Lista
+[2024-05-16 22:35:13] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:35:13] [ INFO ] [Cliente:13] Guardando un odontologo en H2
+[2024-05-16 22:35:13] [ INFO ] [PacienteDAOH2:20] Iniciando la operacion de guardado de un odontologo
+[2024-05-16 22:35:13] [ INFO ] [PacienteDAOH2:31] Odontologo guardado con éxito
+[2024-05-16 22:35:13] [ INFO ] [Cliente:19] Iniciando Buscar Todos en H2
+[2024-05-16 22:35:13] [ INFO ] [PacienteDAOH2:43] Buscando todos los odontologos
+[2024-05-16 22:35:13] [ INFO ] [PacienteDAOH2:51] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:35:13] [ INFO ] [PacienteDAOH2:51] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:35:13] [ INFO ] [PacienteDAOH2:51] ID: 4 Nombre: Juan Apellido: Perez Matricula: 12345678
+[2024-05-16 22:35:13] [ INFO ] [Cliente:23] Iniciando Guardado en Lista
+[2024-05-16 22:35:13] [ INFO ] [Cliente:28] Iniciando busqueda en Lista
+[2024-05-16 22:38:59] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:38:59] [ INFO ] [Cliente:13] Guardando un odontologo en H2
+[2024-05-16 22:38:59] [ INFO ] [PacienteDAOH2:20] Iniciando la operacion de guardado de un odontologo
+[2024-05-16 22:38:59] [ INFO ] [PacienteDAOH2:31] Odontologo guardado con éxito
+[2024-05-16 22:38:59] [ INFO ] [Cliente:19] Iniciando Buscar Todos en H2
+[2024-05-16 22:38:59] [ INFO ] [PacienteDAOH2:43] Buscando todos los odontologos
+[2024-05-16 22:38:59] [ INFO ] [PacienteDAOH2:51] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:38:59] [ INFO ] [PacienteDAOH2:51] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:38:59] [ INFO ] [PacienteDAOH2:51] ID: 4 Nombre: Juan Apellido: Perez Matricula: 12345678
+[2024-05-16 22:38:59] [ INFO ] [Cliente:23] Iniciando Guardado en Lista
+[2024-05-16 22:38:59] [ INFO ] [Cliente:28] Iniciando busqueda en Lista
+[2024-05-16 22:39:49] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:39:49] [ INFO ] [Cliente:13] Guardando un odontologo en H2
+[2024-05-16 22:39:49] [ INFO ] [PacienteDAOH2:20] Iniciando la operacion de guardado de un odontologo
+[2024-05-16 22:39:49] [ INFO ] [PacienteDAOH2:31] Odontologo guardado con éxito
+[2024-05-16 22:39:49] [ INFO ] [Cliente:19] Iniciando Buscar Todos en H2
+[2024-05-16 22:39:49] [ INFO ] [PacienteDAOH2:43] Buscando todos los odontologos
+[2024-05-16 22:39:49] [ INFO ] [PacienteDAOH2:51] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:39:49] [ INFO ] [PacienteDAOH2:51] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:39:49] [ INFO ] [PacienteDAOH2:51] ID: 4 Nombre: Juan Apellido: Perez Matricula: 12345678
+[2024-05-16 22:39:49] [ INFO ] [Cliente:23] Iniciando Guardado en Lista
+[2024-05-16 22:39:49] [ INFO ] [Cliente:30] Iniciando busqueda en Lista
+[2024-05-16 22:40:02] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:40:02] [ INFO ] [Cliente:13] Guardando un odontologo en H2
+[2024-05-16 22:40:02] [ INFO ] [PacienteDAOH2:20] Iniciando la operacion de guardado de un odontologo
+[2024-05-16 22:40:02] [ INFO ] [PacienteDAOH2:31] Odontologo guardado con éxito
+[2024-05-16 22:40:02] [ INFO ] [Cliente:19] Iniciando Buscar Todos en H2
+[2024-05-16 22:40:02] [ INFO ] [PacienteDAOH2:43] Buscando todos los odontologos
+[2024-05-16 22:40:02] [ INFO ] [PacienteDAOH2:51] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:40:02] [ INFO ] [PacienteDAOH2:51] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:40:02] [ INFO ] [PacienteDAOH2:51] ID: 4 Nombre: Juan Apellido: Perez Matricula: 12345678
+[2024-05-16 22:40:02] [ INFO ] [Cliente:23] Iniciando Guardado en Lista
+[2024-05-16 22:40:02] [ INFO ] [Cliente:32] Iniciando busqueda en Lista
+[2024-05-16 22:41:39] [ INFO ] [BD:37] Tabla creada con éxito
+[2024-05-16 22:41:39] [ INFO ] [Cliente:13] Guardando un odontologo en H2
+[2024-05-16 22:41:39] [ INFO ] [OdontologoDAOH2:20] Iniciando la operacion de guardado de un odontologo
+[2024-05-16 22:41:39] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado con éxito
+[2024-05-16 22:41:39] [ INFO ] [Cliente:19] Iniciando Buscar Todos en H2
+[2024-05-16 22:41:39] [ INFO ] [OdontologoDAOH2:43] Buscando todos los odontologos
+[2024-05-16 22:41:39] [ INFO ] [OdontologoDAOH2:51] ID: 1 Nombre: Jorgito Apellido: Pereyra Matricula: 1234
+[2024-05-16 22:41:39] [ INFO ] [OdontologoDAOH2:51] ID: 2 Nombre: German Apellido: Fraire Matricula: 5678
+[2024-05-16 22:41:39] [ INFO ] [OdontologoDAOH2:51] ID: 4 Nombre: Juan Apellido: Perez Matricula: 12345678
+[2024-05-16 22:41:39] [ INFO ] [Cliente:23] Iniciando Guardado en Lista
+[2024-05-16 22:41:39] [ INFO ] [OdontologoDAOList:16] Odontologo guardado con éxito
+[2024-05-16 22:41:39] [ INFO ] [OdontologoDAOList:16] Odontologo guardado con éxito
+[2024-05-16 22:41:39] [ INFO ] [OdontologoDAOList:16] Odontologo guardado con éxito
+[2024-05-16 22:41:39] [ INFO ] [Cliente:32] Iniciando busqueda en Lista
+[2024-05-16 22:41:39] [ INFO ] [OdontologoDAOList:22] Buscando todos los odontologos
+[2024-05-16 22:41:39] [ INFO ] [OdontologoDAOList:24] ID: 5 Nombre: Maria Apellido: Gomez Matrícula: 87654321
+[2024-05-16 22:41:39] [ INFO ] [OdontologoDAOList:24] ID: 6 Nombre: Pedro Apellido: Gonzalez Matrícula: 12348765
+[2024-05-16 22:41:39] [ INFO ] [OdontologoDAOList:24] ID: 7 Nombre: Lucia Apellido: Fernandez Matrícula: 56781234
+[2024-05-16 22:43:03] [ INFO ] [OdontologoDAOList:16] Odontologo guardado con éxito
+[2024-05-16 22:43:03] [ INFO ] [OdontologoDAOList:16] Odontologo guardado con éxito
+[2024-05-16 22:43:03] [ INFO ] [OdontologoDAOList:16] Odontologo guardado con éxito
+[2024-05-16 22:43:03] [ INFO ] [OdontologoDAOList:22] Buscando todos los odontologos
+[2024-05-16 22:43:03] [ INFO ] [OdontologoDAOList:24] ID: 5 Nombre: Maria Apellido: Gomez Matrícula: 87654321
+[2024-05-16 22:43:03] [ INFO ] [OdontologoDAOList:24] ID: 6 Nombre: Pedro Apellido: Gonzalez Matrícula: 12348765
+[2024-05-16 22:43:03] [ INFO ] [OdontologoDAOList:24] ID: 7 Nombre: Lucia Apellido: Fernandez Matrícula: 56781234
+[2024-05-16 22:43:32] [ INFO ] [OdontologoDAOList:22] Buscando todos los odontologos
+[2024-05-16 22:43:32] [ INFO ] [OdontologoDAOList:22] Buscando todos los odontologos
+[2024-05-16 22:44:36] [ INFO ] [OdontologoDAOList:16] Odontologo guardado con éxito
+[2024-05-16 22:44:36] [ INFO ] [OdontologoDAOList:16] Odontologo guardado con éxito
+[2024-05-16 22:44:36] [ INFO ] [OdontologoDAOList:16] Odontologo guardado con éxito
+[2024-05-16 22:44:36] [ INFO ] [OdontologoDAOList:22] Buscando todos los odontologos
+[2024-05-16 22:44:36] [ INFO ] [OdontologoDAOList:24] ID: 5 Nombre: Maria Apellido: Gomez Matrícula: 87654321
+[2024-05-16 22:44:36] [ INFO ] [OdontologoDAOList:24] ID: 6 Nombre: Pedro Apellido: Gonzalez Matrícula: 12348765
+[2024-05-16 22:44:36] [ INFO ] [OdontologoDAOList:24] ID: 7 Nombre: Lucia Apellido: Fernandez Matrícula: 56781234
+[2024-05-16 22:44:36] [ INFO ] [OdontologoDAOList:22] Buscando todos los odontologos
+[2024-05-16 22:44:36] [ INFO ] [OdontologoDAOList:24] ID: 5 Nombre: Maria Apellido: Gomez Matrícula: 87654321
+[2024-05-16 22:44:36] [ INFO ] [OdontologoDAOList:24] ID: 6 Nombre: Pedro Apellido: Gonzalez Matrícula: 12348765
+[2024-05-16 22:44:36] [ INFO ] [OdontologoDAOList:24] ID: 7 Nombre: Lucia Apellido: Fernandez Matrícula: 56781234
